@@ -1,0 +1,18 @@
+
+nav>div {
+    background-color: gray;
+}
+
+form {
+    background-color: #edf2fb;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+table {
+    width: 100%;
+}
+
+.navbar-nav>a:hover {
+    color: white;
+}
